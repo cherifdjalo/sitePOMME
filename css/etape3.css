@@ -1,0 +1,25 @@
+body{
+    margin: 10px;
+    font: 0.8em 
+    'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, 
+    sans-serif;
+    background-color :#ddeeaa;
+}
+
+
+
+
+#conteneur{
+    width: 770px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 2px solid  #ab4;
+    
+    
+    
+}
+#header{
+    line-height: 250px;
+}
+
